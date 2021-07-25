@@ -1,2 +1,2 @@
 # quantum-computing
-Library of texts and codes from my quantum computing journey.
+Codes and textos from my quantum computing learning journey.
